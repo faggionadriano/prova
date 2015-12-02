@@ -23,6 +23,8 @@
  <Project>
   <ProjectSessionItem path="Executable_1" name="unnamed" />
   <ProjectSessionItem path="Executable_1;Executable_1" name="unnamed" />
+  <ProjectSessionItem path="Executable_1;Executable_1;Source Files" name="unnamed" />
+  <ProjectSessionItem path="Executable_1;Executable_1;System Files" name="unnamed" />
  </Project>
  <Register1>
   <RegisterWindow openNodes="CPU;CPU/xpsr;CPU/cfbp;CPU - Current Context" binaryNodes="" unsignedNodes="" decimalNodes="" octalNodes="" asciiNodes="" visibleNodes="CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp;CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr" name="MDB3_PN512" />
@@ -52,7 +54,9 @@
  <Watch4>
   <Watches active="0" update="Never" />
  </Watch4>
- <Files/>
+ <Files>
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Default" x="0" debugPath="/Users/adrifaggio/Desktop/test/prova/main.c" y="7" path="/Users/adrifaggio/Desktop/test/prova/main.c" left="0" selected="1" name="unnamed" top="0" />
+ </Files>
  <ARMCrossStudioWindow activeProject="Executable_1" autoConnectTarget="ST-LINK/V2" debugSearchFileMap="/Disco_Dati/Lavoro/Mark/MDB_keyPN512/Sviluppo/MDB3_1_0_0/PN512.c
 
 /Disco_Dati/Lavoro/Mark/MDB_keyPN512/Sviluppo/MDB3_1_0_0/stm32f0xx_it.c
