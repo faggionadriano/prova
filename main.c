@@ -2,6 +2,6 @@
 void
 main(void)
 {
-  debug_printf("ciao world\n");
+  debug_printf("perchè world\n");
   debug_exit(0);
 }
